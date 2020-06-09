@@ -16,7 +16,7 @@ function App() {
   return (
     <Router>
       <>
-        <Route exact path="/" component={Home} />
+        <Route exact path="/turkmencv" component={Home} />
         <Switch>
           <Route path="/skills" component={Skills}></Route>
           <Route path="/Education" component={Education}></Route>
