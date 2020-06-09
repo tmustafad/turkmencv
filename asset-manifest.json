@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/turkmencv/static/css/main.7fea40a7.chunk.css",
-    "main.js": "/turkmencv/static/js/main.9254c935.chunk.js",
-    "main.js.map": "/turkmencv/static/js/main.9254c935.chunk.js.map",
-    "runtime-main.js": "/turkmencv/static/js/runtime-main.836f0f7a.js",
-    "runtime-main.js.map": "/turkmencv/static/js/runtime-main.836f0f7a.js.map",
-    "static/css/2.5a510433.chunk.css": "/turkmencv/static/css/2.5a510433.chunk.css",
-    "static/js/2.fdd0f406.chunk.js": "/turkmencv/static/js/2.fdd0f406.chunk.js",
-    "static/js/2.fdd0f406.chunk.js.map": "/turkmencv/static/js/2.fdd0f406.chunk.js.map",
-    "index.html": "/turkmencv/index.html",
-    "precache-manifest.08ca9863973fb69a579a9d2d67192b74.js": "/turkmencv/precache-manifest.08ca9863973fb69a579a9d2d67192b74.js",
-    "service-worker.js": "/turkmencv/service-worker.js",
-    "static/css/2.5a510433.chunk.css.map": "/turkmencv/static/css/2.5a510433.chunk.css.map",
-    "static/css/main.7fea40a7.chunk.css.map": "/turkmencv/static/css/main.7fea40a7.chunk.css.map",
-    "static/js/2.fdd0f406.chunk.js.LICENSE.txt": "/turkmencv/static/js/2.fdd0f406.chunk.js.LICENSE.txt",
-    "static/media/turkmen.jpeg": "/turkmencv/static/media/turkmen.58e1eb65.jpeg"
+    "main.css": "/turkmencv/index.html/static/css/main.7fea40a7.chunk.css",
+    "main.js": "/turkmencv/index.html/static/js/main.d5c02071.chunk.js",
+    "main.js.map": "/turkmencv/index.html/static/js/main.d5c02071.chunk.js.map",
+    "runtime-main.js": "/turkmencv/index.html/static/js/runtime-main.be1b5f47.js",
+    "runtime-main.js.map": "/turkmencv/index.html/static/js/runtime-main.be1b5f47.js.map",
+    "static/css/2.5a510433.chunk.css": "/turkmencv/index.html/static/css/2.5a510433.chunk.css",
+    "static/js/2.fdd0f406.chunk.js": "/turkmencv/index.html/static/js/2.fdd0f406.chunk.js",
+    "static/js/2.fdd0f406.chunk.js.map": "/turkmencv/index.html/static/js/2.fdd0f406.chunk.js.map",
+    "index.html": "/turkmencv/index.html/index.html",
+    "precache-manifest.8c3a572101501457253edbcc13c73adc.js": "/turkmencv/index.html/precache-manifest.8c3a572101501457253edbcc13c73adc.js",
+    "service-worker.js": "/turkmencv/index.html/service-worker.js",
+    "static/css/2.5a510433.chunk.css.map": "/turkmencv/index.html/static/css/2.5a510433.chunk.css.map",
+    "static/css/main.7fea40a7.chunk.css.map": "/turkmencv/index.html/static/css/main.7fea40a7.chunk.css.map",
+    "static/js/2.fdd0f406.chunk.js.LICENSE.txt": "/turkmencv/index.html/static/js/2.fdd0f406.chunk.js.LICENSE.txt",
+    "static/media/turkmen.jpeg": "/turkmencv/index.html/static/media/turkmen.58e1eb65.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.836f0f7a.js",
+    "static/js/runtime-main.be1b5f47.js",
     "static/css/2.5a510433.chunk.css",
     "static/js/2.fdd0f406.chunk.js",
     "static/css/main.7fea40a7.chunk.css",
-    "static/js/main.9254c935.chunk.js"
+    "static/js/main.d5c02071.chunk.js"
   ]
 }
