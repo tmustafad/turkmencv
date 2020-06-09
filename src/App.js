@@ -10,7 +10,7 @@ import Portfolio from "./components/Portfolio";
 import Profile from "./components/Profile";
 import Skills from "./components/Skills";
 
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 
 function App() {
   return (
