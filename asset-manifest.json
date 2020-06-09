@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tmustafad/turkmencv/static/css/main.7fea40a7.chunk.css",
+    "main.js": "/tmustafad/turkmencv/static/js/main.5bc447da.chunk.js",
+    "main.js.map": "/tmustafad/turkmencv/static/js/main.5bc447da.chunk.js.map",
+    "runtime-main.js": "/tmustafad/turkmencv/static/js/runtime-main.587a6d09.js",
+    "runtime-main.js.map": "/tmustafad/turkmencv/static/js/runtime-main.587a6d09.js.map",
+    "static/css/2.5a510433.chunk.css": "/tmustafad/turkmencv/static/css/2.5a510433.chunk.css",
+    "static/js/2.fdd0f406.chunk.js": "/tmustafad/turkmencv/static/js/2.fdd0f406.chunk.js",
+    "static/js/2.fdd0f406.chunk.js.map": "/tmustafad/turkmencv/static/js/2.fdd0f406.chunk.js.map",
+    "index.html": "/tmustafad/turkmencv/index.html",
+    "precache-manifest.898e0016d532fb44d0d885a034261690.js": "/tmustafad/turkmencv/precache-manifest.898e0016d532fb44d0d885a034261690.js",
+    "service-worker.js": "/tmustafad/turkmencv/service-worker.js",
+    "static/css/2.5a510433.chunk.css.map": "/tmustafad/turkmencv/static/css/2.5a510433.chunk.css.map",
+    "static/css/main.7fea40a7.chunk.css.map": "/tmustafad/turkmencv/static/css/main.7fea40a7.chunk.css.map",
+    "static/js/2.fdd0f406.chunk.js.LICENSE.txt": "/tmustafad/turkmencv/static/js/2.fdd0f406.chunk.js.LICENSE.txt",
+    "static/media/turkmen.jpeg": "/tmustafad/turkmencv/static/media/turkmen.58e1eb65.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.587a6d09.js",
+    "static/css/2.5a510433.chunk.css",
+    "static/js/2.fdd0f406.chunk.js",
+    "static/css/main.7fea40a7.chunk.css",
+    "static/js/main.5bc447da.chunk.js"
+  ]
+}
