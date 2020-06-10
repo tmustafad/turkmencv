@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/turkmencv/static/css/main.7fea40a7.chunk.css",
-    "main.js": "/turkmencv/static/js/main.5c2d1fde.chunk.js",
-    "main.js.map": "/turkmencv/static/js/main.5c2d1fde.chunk.js.map",
+    "main.js": "/turkmencv/static/js/main.27ca5c48.chunk.js",
+    "main.js.map": "/turkmencv/static/js/main.27ca5c48.chunk.js.map",
     "runtime-main.js": "/turkmencv/static/js/runtime-main.836f0f7a.js",
     "runtime-main.js.map": "/turkmencv/static/js/runtime-main.836f0f7a.js.map",
     "static/css/2.5a510433.chunk.css": "/turkmencv/static/css/2.5a510433.chunk.css",
     "static/js/2.fdd0f406.chunk.js": "/turkmencv/static/js/2.fdd0f406.chunk.js",
     "static/js/2.fdd0f406.chunk.js.map": "/turkmencv/static/js/2.fdd0f406.chunk.js.map",
     "index.html": "/turkmencv/index.html",
-    "precache-manifest.cbc589fc2905798acbbac71baae7c364.js": "/turkmencv/precache-manifest.cbc589fc2905798acbbac71baae7c364.js",
+    "precache-manifest.42b8d3fb6480eb8b0eacb698fda85135.js": "/turkmencv/precache-manifest.42b8d3fb6480eb8b0eacb698fda85135.js",
     "service-worker.js": "/turkmencv/service-worker.js",
     "static/css/2.5a510433.chunk.css.map": "/turkmencv/static/css/2.5a510433.chunk.css.map",
     "static/css/main.7fea40a7.chunk.css.map": "/turkmencv/static/css/main.7fea40a7.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.5a510433.chunk.css",
     "static/js/2.fdd0f406.chunk.js",
     "static/css/main.7fea40a7.chunk.css",
-    "static/js/main.5c2d1fde.chunk.js"
+    "static/js/main.27ca5c48.chunk.js"
   ]
 }
