@@ -10,10 +10,12 @@ export default class About extends Component {
               <strong>ABOUT ME</strong>
             </h6>
             <p className="grey-text">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim
-              minima quod molestias numquam, cumque eveniet delectus dolore
-              laborum molestiae quis possimus eos dignissimos cupiditate ipsam
-              sunt doloremque commodi adipisci quasi?
+              Software Engineer who precisely executes development projects from
+              concept to delivery. Highly skilled software development
+              professional bringing more than 10 years in software design,
+              development and integration. Advanced knowledge of Java and
+              related frameworks and tools like Spring ,Spring Boot,
+              JPA,Hibernate,Docker,Jenkins, Kafka, J2EE.
             </p>
           </div>
           <div className="card-action">
@@ -23,13 +25,13 @@ export default class About extends Component {
             <div className="row mt">
               <div className="col xl6 l6 m6 s12">
                 <p>
-                  <strong>Address:</strong> 123 Lorem
+                  <strong>Address:</strong> Istanbul / Turkey
                 </p>
                 <p>
-                  <strong>Email:</strong> test@yahoo.com
+                  <strong>Email:</strong> tmustafad@gmail.com
                 </p>
                 <p>
-                  <strong>Phone:</strong> 123 456 7898
+                  <strong>Phone:</strong> +905304975644
                 </p>
               </div>
               <div className="col xl6 l6 m6 s12">
@@ -37,10 +39,7 @@ export default class About extends Component {
                   <strong>Main Language</strong> - English
                 </p>
                 <p>
-                  <strong>Second Language</strong> - Spanish
-                </p>
-                <p>
-                  <strong>Third Language</strong> - Chinese
+                  <strong>Second Language</strong> - Turkish
                 </p>
               </div>
             </div>

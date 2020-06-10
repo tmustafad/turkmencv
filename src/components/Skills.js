@@ -11,16 +11,16 @@ export default class Skills extends Component {
             </h6>
             <div className="row mt-top">
               <div className="col s6">
-                <p>HTML</p>
+                <p>Java</p>
                 <div className="progress grey lighten-1">
                   <div
                     className="determinate blue"
-                    style={{ width: "89%" }}
+                    style={{ width: "100%" }}
                   ></div>
                 </div>
               </div>
               <div className="col s6">
-                <p>CSS</p>
+                <p>Spring</p>
                 <div className="progress grey lighten-1">
                   <div
                     className="determinate blue"
@@ -31,22 +31,31 @@ export default class Skills extends Component {
             </div>
             <div className="row">
               <div className="col s6">
-                <p>JAVASCRIPT</p>
+                <p>JPA - Hibernate</p>
                 <div className="progress grey lighten-1">
                   <div
                     className="determinate blue"
-                    style={{ width: "90%" }}
+                    style={{ width: "100%" }}
                   ></div>
                 </div>
               </div>
               <div className="col s6">
-                <p>PHP</p>
+                <p>Kotlin</p>
                 <div className="progress grey lighten-1">
                   <div
                     className="determinate blue"
-                    style={{ width: "95%" }}
+                    style={{ width: "80%" }}
                   ></div>
                 </div>
+              </div>
+            </div>
+            <div className="col s6">
+              <p>Oracle</p>
+              <div className="progress grey lighten-1">
+                <div
+                  className="determinate blue"
+                  style={{ width: "80%" }}
+                ></div>
               </div>
             </div>
             <div className="row">
@@ -60,11 +69,20 @@ export default class Skills extends Component {
                 </div>
               </div>
               <div className="col s6">
-                <p>JQUERY</p>
+                <p>React Js</p>
                 <div className="progress grey lighten-1">
                   <div
                     className="determinate blue"
                     style={{ width: "70%" }}
+                  ></div>
+                </div>
+              </div>
+              <div className="col s6">
+                <p>Spring</p>
+                <div className="progress grey lighten-1">
+                  <div
+                    className="determinate blue"
+                    style={{ width: "100%" }}
                   ></div>
                 </div>
               </div>
