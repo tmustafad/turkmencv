@@ -78,6 +78,16 @@ export default class Skills extends Component {
                 </div>
               </div>
               <div className="col s6">
+                <p>J2EE Architecture</p>
+                <div className="progress grey lighten-1">
+                  <div
+                    className="determinate blue"
+                    style={{ width: "90%" }}
+                  ></div>
+                </div>
+              </div>
+              J2EE architecture
+              <div className="col s6">
                 <p>Spring</p>
                 <div className="progress grey lighten-1">
                   <div
