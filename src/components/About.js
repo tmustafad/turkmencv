@@ -40,6 +40,37 @@ export default class About extends Component {
                 <p>
                   <strong>Second Language</strong> - English
                 </p>
+                <p>
+                  <pre>
+                    <a
+                      className="fa fa-facebook"
+                      href="https://www.facebook.com/turkmen.m.demirci"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    ></a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    <a
+                      className="fab fa-instagram grey-text text-darken-4 social_style"
+                      href="https://www.instagram.com/tmustafad/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    ></a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    <a
+                      className="fab fa-linkedin grey-text text-darken-4 social_style"
+                      href="https://www.linkedin.com/in/tdemirci/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    ></a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    <a
+                      className="fab fa-github grey-text text-darken-4 social_style"
+                      href="https://github.com/tmustafad"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    ></a>
+                  </pre>
+                </p>
               </div>
             </div>
           </div>

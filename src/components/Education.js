@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { HashLink as Link } from "react-router-hash-link";
 
 export default class Education extends Component {
   render() {
@@ -59,6 +58,7 @@ export default class Education extends Component {
                       href="https://www.coursera.org/account/accomplishments/verify/TDWDVS4RKJ36"
                       class="btn blue lighten-2"
                       target="_blank"
+                      rel="noopener noreferrer"
                     >
                       View
                     </a>
@@ -72,6 +72,7 @@ export default class Education extends Component {
                   <td>
                     <a
                       target="_blank"
+                      rel="noopener noreferrer"
                       // to="/"
                       href="https://www.coursera.org/account/accomplishments/certificate/NDLHJVGAE2GR"
                       class="btn blue lighten-2"
