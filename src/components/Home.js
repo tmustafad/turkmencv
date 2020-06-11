@@ -17,7 +17,7 @@ export default class Home extends Component {
               <Profile></Profile>
             </div>
             <div className="col s12 m8 l9">
-              <About></About>
+              <About id="about"></About>
               <Skills></Skills>
               <Education></Education>
               <Experience></Experience>

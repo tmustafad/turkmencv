@@ -13,46 +13,71 @@ export default class Education extends Component {
             <table class="striped">
               <thead>
                 <tr>
-                  <th>Certificate</th>
-                  <th>Date</th>
+                  <th>School</th>
+                  <th>Start Date</th>
+                  <th>End Date</th>
+                  <th>Major</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Marmara Universty</td>
+                  <td>Sep 2001</td>
+                  <td>June 2005</td>
+                  <td>
+                    Bachelor of Science: Automative Eng- Techniccal Education
+                    Faculty
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-content">
+            <h6>
+              <strong>CERTIFICATION</strong>
+            </h6>
+            <table class="striped">
+              <thead>
+                <tr>
+                  <th>Institution</th>
+                  <th>Issue Date</th>
+                  <th>Topic</th>
                   <th></th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td>Web Development</td>
-                  <td>Jan 2018</td>
+                  <td>Coursera - Stanford Universty</td>
+                  <td>July 2018</td>
+                  <td>Machine Learning</td>
+
                   <td>
-                    <Link to="/details" class="btn blue lighten-2">
+                    <a
+                      // to="/"
+                      href="https://www.coursera.org/account/accomplishments/verify/TDWDVS4RKJ36"
+                      class="btn blue lighten-2"
+                      target="_blank"
+                    >
                       View
-                    </Link>
+                    </a>
                   </td>
                 </tr>
                 <tr>
-                  <td>Graphic Design</td>
-                  <td>May 2018</td>
+                  <td>Coursera - JetBrains</td>
+                  <td>May 2020</td>
+                  <td>Kotlin for Java Developers</td>
+
                   <td>
-                    <Link to="/details" class="btn blue lighten-2">
+                    <a
+                      target="_blank"
+                      // to="/"
+                      href="https://www.coursera.org/account/accomplishments/certificate/NDLHJVGAE2GR"
+                      class="btn blue lighten-2"
+                    >
                       View
-                    </Link>
-                  </td>
-                </tr>
-                <tr>
-                  <td>Tech Gadgets</td>
-                  <td>June 2018</td>
-                  <td>
-                    <Link to="/details" class="btn blue lighten-2">
-                      View
-                    </Link>
-                  </td>
-                </tr>
-                <tr>
-                  <td>Other</td>
-                  <td>Dec 2018</td>
-                  <td>
-                    <Link to="/details" class="btn blue lighten-2">
-                      View
-                    </Link>
+                    </a>
                   </td>
                 </tr>
               </tbody>

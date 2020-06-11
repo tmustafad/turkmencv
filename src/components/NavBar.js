@@ -22,7 +22,7 @@ export default class Navbar extends Component {
                   </Link>
                 </li>
                 <li>
-                  <Link to="/skills">
+                  <Link to="#skills">
                     <i class="fas fa-copy"></i> Skills
                   </Link>
                 </li>
