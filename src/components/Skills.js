@@ -11,7 +11,7 @@ export default class Skills extends Component {
             </h6>
             <div className="row mt-top">
               <div className="col s6">
-                <p>Java</p>
+                <p>Java 8- Java 11</p>
                 <div className="progress grey lighten-1">
                   <div
                     className="determinate blue"
@@ -20,7 +20,7 @@ export default class Skills extends Component {
                 </div>
               </div>
               <div className="col s6">
-                <p>Spring</p>
+                <p>SpringBoot,Spring MVC,Spring Cloud,Spring</p>
                 <div className="progress grey lighten-1">
                   <div
                     className="determinate blue"
@@ -29,6 +29,49 @@ export default class Skills extends Component {
                 </div>
               </div>
             </div>
+
+            <div className="row mt-top">
+              <div className="col s6">
+                <p>J2EE</p>
+                <div className="progress grey lighten-1">
+                  <div
+                    className="determinate blue"
+                    style={{ width: "100%" }}
+                  ></div>
+                </div>
+              </div>
+              <div className="col s6">
+                <p>JUnit, Mockito</p>
+                <div className="progress grey lighten-1">
+                  <div
+                    className="determinate blue"
+                    style={{ width: "100%" }}
+                  ></div>
+                </div>
+              </div>
+            </div>
+
+            <div className="row mt-top">
+              <div className="col s6">
+                <p>Kotlin</p>
+                <div className="progress grey lighten-1">
+                  <div
+                    className="determinate blue"
+                    style={{ width: "95%" }}
+                  ></div>
+                </div>
+              </div>
+              <div className="col s6">
+                <p>React Js</p>
+                <div className="progress grey lighten-1">
+                  <div
+                    className="determinate blue"
+                    style={{ width: "50%" }}
+                  ></div>
+                </div>
+              </div>
+            </div>
+
             <div className="row">
               <div className="col s6">
                 <p>JPA - Hibernate</p>
@@ -40,7 +83,7 @@ export default class Skills extends Component {
                 </div>
               </div>
               <div className="col s6">
-                <p>Kotlin</p>
+                <p>Docker,Swarm</p>
                 <div className="progress grey lighten-1">
                   <div
                     className="determinate blue"
@@ -61,26 +104,27 @@ export default class Skills extends Component {
                 </div>
               </div>
               <div className="col s6">
-                <p>React Js</p>
+                <p>Oracle</p>
                 <div className="progress grey lighten-1">
                   <div
                     className="determinate blue"
-                    style={{ width: "70%" }}
+                    style={{ width: "90%" }}
                   ></div>
                 </div>
               </div>
+
               <div className="row">
                 <div className="col s6">
-                  <p>J2EE Architecture</p>
+                  <p>AWS (EC2,S3,Elastic Beanstalk)</p>
                   <div className="progress grey lighten-1">
                     <div
                       className="determinate blue"
-                      style={{ width: "100%" }}
+                      style={{ width: "70%" }}
                     ></div>
                   </div>
                 </div>
                 <div className="col s6">
-                  <p>Spring</p>
+                  <p>Postgresql</p>
                   <div className="progress grey lighten-1">
                     <div
                       className="determinate blue"
@@ -90,13 +134,24 @@ export default class Skills extends Component {
                 </div>
               </div>
 
-              <div className="col s6">
-                <p>Docker - Swarm</p>
-                <div className="progress grey lighten-1">
-                  <div
-                    className="determinate blue"
-                    style={{ width: "90%" }}
-                  ></div>
+              <div className="row">
+                <div className="col s6">
+                  <p>UML , Object Oriented Analysis And Design</p>
+                  <div className="progress grey lighten-1">
+                    <div
+                      className="determinate blue"
+                      style={{ width: "100%" }}
+                    ></div>
+                  </div>
+                </div>
+                <div className="col s6">
+                  <p>Kafka</p>
+                  <div className="progress grey lighten-1">
+                    <div
+                      className="determinate blue"
+                      style={{ width: "80%" }}
+                    ></div>
+                  </div>
                 </div>
               </div>
             </div>

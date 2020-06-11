@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-
 export default class About extends Component {
   render() {
     return (
@@ -10,12 +9,11 @@ export default class About extends Component {
               <strong>ABOUT ME</strong>
             </h6>
             <p className="grey-text">
-              Software Engineer who precisely executes development projects from
-              concept to delivery. Highly skilled software development
-              professional bringing more than 10 years in software design,
-              development and integration. Advanced knowledge of Java and
-              related frameworks and tools like Spring ,Spring Boot,
-              JPA,Hibernate,Docker,Jenkins, Kafka, J2EE.
+              Experienced Software Engineer with over 10 years of experience in
+              Software Development. Excellent reputation for resolving problems,
+              improving customer satisfaction and highly effective at developing
+              new programs and fixing problems with existing systems. Proficient
+              in Java ,Kotlin,JavaScript and Agile/Scrum methodology.
             </p>
           </div>
           <div className="card-action">
@@ -28,7 +26,8 @@ export default class About extends Component {
                   <strong>Address:</strong> Istanbul / Turkey
                 </p>
                 <p>
-                  <strong>Email:</strong> tmustafad@gmail.com
+                  <strong>Email:</strong>
+                  <a href="mailto:tmustafad@gmail.com"> tmustafad@gmail.com</a>
                 </p>
                 <p>
                   <strong>Phone:</strong> +905304975644
@@ -36,10 +35,10 @@ export default class About extends Component {
               </div>
               <div className="col xl6 l6 m6 s12">
                 <p>
-                  <strong>Main Language</strong> - English
+                  <strong>Main Language</strong> - Turkish
                 </p>
                 <p>
-                  <strong>Second Language</strong> - Turkish
+                  <strong>Second Language</strong> - English
                 </p>
               </div>
             </div>
