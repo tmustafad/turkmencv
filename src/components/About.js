@@ -8,7 +8,7 @@ export default class About extends Component {
             <h6 className="mt-bottom">
               <strong>ABOUT ME</strong>
             </h6>
-            <p className="grey-text">
+            <p className="gray-text">
               Experienced Software Engineer with over 10 years of experience in
               Software Development. Excellent reputation for resolving problems,
               improving customer satisfaction and highly effective at developing

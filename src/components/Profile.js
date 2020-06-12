@@ -7,10 +7,14 @@ export default class Profile extends Component {
       <div>
         <div className="card">
           <div className="card-image">
-            <img className="activator" src={ImgProfile} alt="John Doe" />
-            <Link className="btn-floating halfway-fab waves-effect waves-light red">
+            <img
+              className="activator"
+              src={ImgProfile}
+              alt="Turkmen Mustafa Demirci"
+            />
+            {/* <Link className="btn-floating halfway-fab waves-effect waves-light red">
               <i className="material-icons activator">more_vert</i>
-            </Link>
+            </Link> */}
           </div>
           <div className="card-content">
             <span className="card-title activator grey-text text-darken-4">
@@ -18,7 +22,7 @@ export default class Profile extends Component {
             </span>
             <p>Senior Software Engineer</p>
           </div>
-          <div className="card-reveal">
+          {/* <div className="card-reveal">
             <span className="card-title grey-text text-darken-4">
               Follow Me
               <i className="material-icons right">close</i>
@@ -28,7 +32,7 @@ export default class Profile extends Component {
               <i className="fab fa-instagram grey-text text-darken-4 social_style"></i>
               <i className="fab fa-linkedin grey-text text-darken-4 social_style"></i>
             </p>
-          </div>
+          </div> */}
         </div>
       </div>
     );
