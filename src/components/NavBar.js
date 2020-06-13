@@ -49,7 +49,7 @@ export default class Navbar extends Component {
             </div>
           </div>
         </nav>
-        <ul className="sidenav" id="side-nav">
+        <ul className="sidenav sidenav-close" id="side-nav">
           <li />
           <li>
             <Link to="/">
