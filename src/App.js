@@ -6,7 +6,7 @@ import Home from "./components/Home";
 import Education from "./components/Education";
 import Experience from "./components/Experience";
 import About from "./components/About";
-import Portfolio from "./components/Portfolio";
+import DownloadCV from "./components/DownloadCV";
 import Profile from "./components/Profile";
 import Skills from "./components/Skills";
 
@@ -21,7 +21,7 @@ function App() {
           <Route path="/skills" component={Skills}></Route>
           <Route path="/Education" component={Education}></Route>
           <Route path="/Experience" component={Experience}></Route>
-          <Route path="/Portfolio" component={Portfolio}></Route>
+          <Route path="/DownloadCV" component={DownloadCV}></Route>
           <Route path="/Profile" component={Profile}></Route>
           <Route path="/About" component={About}></Route>
         </Switch>

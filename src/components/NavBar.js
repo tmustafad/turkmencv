@@ -45,6 +45,13 @@ export default class Navbar extends Component {
                     <i className="fas fa-graduation-cap"></i> Educations
                   </Link>
                 </li>
+
+                {/* <li>
+                  <Link to="downloadCv">
+                    <i className="fas fa-copy"></i>
+                    Download My CV
+                  </Link>
+                </li> */}
               </ul>
             </div>
           </div>
@@ -71,6 +78,12 @@ export default class Navbar extends Component {
               <i className="fas fa-graduation-cap"></i> Education
             </Link>
           </li>
+
+          {/* <li>
+            <Link to="downloadCv">
+              <i className="fas fa-graduation-cap"></i> Download My CV
+            </Link>
+          </li> */}
         </ul>
       </>
     );

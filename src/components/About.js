@@ -1,4 +1,9 @@
 import React, { Component } from "react";
+import { Button } from "react-bootstrap";
+
+const url =
+  "https://drive.google.com/file/d/1FXjXBjf1HmQ9leApqDEyzKNURPp-7GYT/view?usp=sharing";
+
 export default class About extends Component {
   render() {
     return (
@@ -71,6 +76,19 @@ export default class About extends Component {
                     ></a>
                   </pre>
                 </p>
+              </div>
+              <div>
+                <a
+                  href={url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  download
+                >
+                  <Button>
+                    <i className="fas fa-download" />
+                    Download my CV
+                  </Button>
+                </a>
               </div>
             </div>
           </div>
