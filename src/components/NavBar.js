@@ -1,8 +1,16 @@
 import React, { Component } from "react";
-//import 'materialize-css/dist/css/materialize.min.css';
-import { HashLink as Link } from "react-router-hash-link";
+import { Link } from "react-scroll";
+import "materialize-css/dist/css/materialize.min.css";
+import M from "materialize-css/dist/js/materialize.min.js";
 
 export default class Navbar extends Component {
+  componentDidMount() {
+    var elem = document.querySelector(".sidenav");
+    var instance = M.Sidenav.init(elem, {
+      edge: "left",
+      inDuration: 250,
+    });
+  }
   render() {
     return (
       <>
@@ -18,48 +26,49 @@ export default class Navbar extends Component {
               <ul className="right hide-on-med-and-down">
                 <li>
                   <Link to="/">
-                    <i class="fas fa-home"></i> Home
+                    <i className="fas fa-home"></i> Home
                   </Link>
                 </li>
                 <li>
-                  <Link to="#skills">
-                    <i class="fas fa-copy"></i> Skills
+                  <Link to="skills">
+                    <i className="fas fa-copy"></i>
+                    Skills
                   </Link>
                 </li>
                 <li>
-                  <Link to="/experience">
-                    <i class="fas fa-id-badge"></i> Experiences
+                  <Link to="experience">
+                    <i className="fas fa-id-badge"></i> Experiences
                   </Link>
                 </li>
                 <li>
-                  <Link to="/education">
-                    <i class="fas fa-graduation-cap"></i> Educations
+                  <Link to="education">
+                    <i className="fas fa-graduation-cap"></i> Educations
                   </Link>
                 </li>
               </ul>
             </div>
           </div>
         </nav>
-        <ul class="sidenav" id="side-nav">
+        <ul className="sidenav" id="side-nav">
           <li />
           <li>
             <Link to="/">
-              <i class="fas fa-home"></i> Home
+              <i className="fas fa-home"></i> Home
             </Link>
           </li>
           <li>
-            <Link to="/skills">
-              <i class="fas fa-copy"></i> Skills
+            <Link to="skills">
+              <i className="fas fa-copy"></i> Skills
             </Link>
           </li>
           <li>
-            <Link to="/Experience">
-              <i class="fas fa-id-badge"></i> Experience
+            <Link to="experience">
+              <i className="fas fa-id-badge"></i> Experience
             </Link>
           </li>
           <li>
-            <Link to="/Education">
-              <i class="fas fa-graduation-cap"></i> Education
+            <Link to="education">
+              <i className="fas fa-graduation-cap"></i> Education
             </Link>
           </li>
         </ul>

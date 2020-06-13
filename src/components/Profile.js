@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { HashLink as Link } from "react-router-hash-link";
 import ImgProfile from "../images/turkmen.jpeg";
 export default class Profile extends Component {
   render() {

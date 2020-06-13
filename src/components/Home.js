@@ -17,10 +17,16 @@ export default class Home extends Component {
               <Profile></Profile>
             </div>
             <div className="col s12 m8 l9">
-              <About id="about"></About>
-              <Skills></Skills>
-              <Education></Education>
-              <Experience></Experience>
+              <About></About>
+              <div id="skills">
+                <Skills id="turkmen"></Skills>
+              </div>
+              <div id="education">
+                <Education></Education>
+              </div>
+              <div id="experience">
+                <Experience></Experience>
+              </div>
             </div>
           </div>
         </div>
