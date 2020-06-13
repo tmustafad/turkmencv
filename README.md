@@ -3,3 +3,7 @@ This a simple React App , I try to publish my CV via Github Pages. It is still u
 ## Cheers
 
 ## Turkmen
+
+# Below is the url to access my CV web page :)
+
+http://tmustafad.github.io/turkmencv/
