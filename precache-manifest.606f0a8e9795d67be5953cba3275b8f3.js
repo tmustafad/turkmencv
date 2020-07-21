@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "15f1e931e1f04c2e8efd4f7c8040a513",
+    "revision": "d15895a4aa629e5365c337619e9645ef",
     "url": "/turkmencv/index.html"
   },
   {
-    "revision": "75de879bb4b38a56942e",
+    "revision": "139d4d9c4598ccd6565c",
     "url": "/turkmencv/static/css/2.5a510433.chunk.css"
   },
   {
-    "revision": "9cb4deb8696701d3a8d7",
+    "revision": "0b17489c729e265326da",
     "url": "/turkmencv/static/css/main.97df3d29.chunk.css"
   },
   {
-    "revision": "75de879bb4b38a56942e",
-    "url": "/turkmencv/static/js/2.006a9953.chunk.js"
+    "revision": "139d4d9c4598ccd6565c",
+    "url": "/turkmencv/static/js/2.a7a34b90.chunk.js"
   },
   {
-    "revision": "2ecd760a01b9b08172f3fbed44ec5739",
-    "url": "/turkmencv/static/js/2.006a9953.chunk.js.LICENSE.txt"
+    "revision": "f25112c0081db71b0e5dd2ce64e909e6",
+    "url": "/turkmencv/static/js/2.a7a34b90.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9cb4deb8696701d3a8d7",
-    "url": "/turkmencv/static/js/main.dcd27013.chunk.js"
+    "revision": "0b17489c729e265326da",
+    "url": "/turkmencv/static/js/main.5839c1a2.chunk.js"
   },
   {
     "revision": "d9856c68f26347c6bb9e",
