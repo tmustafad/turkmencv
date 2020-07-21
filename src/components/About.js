@@ -84,10 +84,10 @@ export default class About extends Component {
                   rel="noopener noreferrer"
                   download
                 >
-                  <Button>
+                  {/*                   <Button>
                     <i className="fas fa-download" />
                     Download my CV
-                  </Button>
+                  </Button> */}
                 </a>
               </div>
             </div>

@@ -12,10 +12,34 @@ export default class Experience extends Component {
 
             <div className="row mt-top">
               <div className="col xl4 l4 m6 s12">
-                <p className="teal year_exp white-text">Effortel</p>
+                <p className="teal year_exp white-text">
+                  ServiceHouse - Netherlands
+                </p>
+                <p className="teal year_exp white-text">
+                  July&nbsp;
+                  <strong>2020</strong> -<strong>Current</strong>
+                </p>
+              </div>
+              <div className="col xl8 l8 m6 s12">
+                <blockquote className="no-pad">
+                  <h6 className="no-pad mt-bottom">
+                    <strong>Senior Software Engineer</strong>
+                  </h6>
+                  <p>
+                    Developing SpringBoot applications running on AWS .
+                    Postgresql and AWS S3 are used for storage. RabbitMQ is
+                    integrated with main SpringBoot application and all
+                    interactions is handled via RabbitMq.
+                    <br></br>
+                  </p>
+                </blockquote>
+              </div>
+
+              <div className="col xl4 l4 m6 s12">
+                <p className="teal year_exp white-text">Effortel - Bulgaria</p>
                 <p className="teal year_exp white-text">
                   Mar&nbsp;
-                  <strong>2019</strong> -<strong>Current</strong>
+                  <strong>2019</strong> -<strong>July 2020</strong>
                 </p>
               </div>
               <div className="col xl8 l8 m6 s12">
@@ -47,7 +71,9 @@ export default class Experience extends Component {
 
             <div className="row mt-top">
               <div className="col xl4 l4 m6 s12">
-                <p className="teal year_exp white-text">Turkcell Plc</p>
+                <p className="teal year_exp white-text">
+                  Turkcell Plc - Turkey
+                </p>
                 <p className="teal year_exp white-text">
                   Dec&nbsp;
                   <strong>2010</strong> - Mar&nbsp;
@@ -90,7 +116,7 @@ export default class Experience extends Component {
 
             <div className="row mt-top">
               <div className="col xl4 l4 m6 s12">
-                <p className="teal year_exp white-text">Aviva Plc</p>
+                <p className="teal year_exp white-text">Aviva Plc - Turkey</p>
                 <p className="teal year_exp white-text">
                   Nov&nbsp;
                   <strong>2009</strong> - Dec&nbsp;
@@ -120,7 +146,9 @@ export default class Experience extends Component {
 
             <div className="row mt-top">
               <div className="col xl4 l4 m6 s12">
-                <p className="teal year_exp white-text">32Bit Bilgisayar</p>
+                <p className="teal year_exp white-text">
+                  32Bit Bilgisayar - Turkey
+                </p>
                 <p className="teal year_exp white-text">
                   Oct&nbsp;
                   <strong>2006</strong> - Nov&nbsp;
