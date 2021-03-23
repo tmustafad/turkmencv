@@ -35,7 +35,10 @@ export default class About extends Component {
                   <a href="mailto:tmustafad@gmail.com"> tmustafad@gmail.com</a>
                 </p>
                 <p>
-                  <strong>Phone:</strong> +905304975644
+                  <strong>Phone TR:</strong> +905304975644
+                </p>
+                <p>
+                  <strong>Phone NL:</strong> +31622881033
                 </p>
               </div>
               <div className="col xl6 l6 m6 s12">
