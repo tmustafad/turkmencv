@@ -5,5 +5,4 @@
 #### Turkmen
 
 ## Below is the url to access my CV web page :)
-
-http://tmustafad.github.io/turkmencv/
+https://www.turkmenmustafa.com
